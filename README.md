@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eli-shen08&label=Profile%20views&color=0e75b6&style=flat" alt="eli-shen08" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@Rahul08Eli" target="blank"><img src="https://img.shields.io/twitter/follow/@Rahul08Eli?logo=twitter&style=for-the-badge" alt="@Rahul08Eli" /></a> </p>
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40Rahul08Eli)](https://twitter.com/Rahul08Eli)
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
