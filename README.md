@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Mondal</h1>
-<h3 align="center">A passionate guy who wants to explore the world of Data Science & Machine Learning.</h3>
+<h3 align="center">A passionate student who wants to be engulfed in the world of Data Science & Machine Learning.</h3>
+<h6 align="center">Currently pursuing my Bachelors in Computer Science .</h6>
 
 
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/07/31532d7d378053de3b8bf23c6e7bfae3-1.gif">
@@ -12,6 +13,8 @@
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 💬 Ask me about **Data Science and Machine Learning**
+
+- :computer: My preferred choice of language currently is **Python**
 
 - 📫 How to reach me **mondal.rahul1999@gmail.com**
 
