@@ -77,6 +77,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eli-shen08&layout=compact)](https://github.com/eli-shen08/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eli-shen08&show_icons=true&theme=tokyonight)
+
 
 
