@@ -12,15 +12,15 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40Rahul08Eli)](https://twitter.com/Rahul08Eli)
 
-- 🌱 I’m currently learning Data Science and Machine Learning
+- I’m currently learning Data Science and Machine Learning
 
-- 💬 Ask me about Data Science and Machine Learning
+- Ask me about Data Science and Machine Learning
 
-- :computer: My preferred choice of language currently is Python
+- My preferred choice of language currently is Python
 
-- 📫 How to reach me mondal.rahul1999@gmail.com
+- How to reach me mondal.rahul1999@gmail.com
 
-- 📄 Know about my experiences : (Developed a Pneumonia Detection System based on Deep Learning Paradigm)
+- Know about my experiences : (Developed a Pneumonia Detection System based on Deep Learning Paradigm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
