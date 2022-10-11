@@ -28,7 +28,7 @@
 <a href="https://kaggle.com/rahulmondal08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rahulmondal08" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Certificates:</h3>
+<h3 align="left">Badges:</h3>
 
 [![Certificate](https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/earner/earned/share/582c0a2e-a0df-4c7b-ae14-03f8d10f1ddb)
 
