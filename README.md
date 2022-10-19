@@ -30,7 +30,7 @@
 
 <h3 align="left">Badges:</h3>
 
-[![Certificate](https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/earner/earned/share/582c0a2e-a0df-4c7b-ae14-03f8d10f1ddb)
+[![Badges](https://images.credly.com/size/150x150/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/earner/earned/share/582c0a2e-a0df-4c7b-ae14-03f8d10f1ddb)[![Badges](https://images.credly.com/size/150x150/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png)](https://www.credly.com/earner/earned/share/13138c18-e627-4c63-b5ae-c29bfe95ba1e)
 
 <h3 align="left">Languages and Tools:</h3>
 
